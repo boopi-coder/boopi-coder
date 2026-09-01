@@ -19,6 +19,7 @@ can just as well stay on your own machine.*
 | | |
 |---|---|
 | **[Auris Whisper](https://github.com/sibawal/auris-whisper)** | Офлайн-расшифровка речи для macOS. SwiftUI поверх whisper.cpp, модель внутри бандла, счёт на Metal — наружу не уходит ничего. Читает даже ogg/opus, которые macOS не открывает.<br>*Offline speech-to-text for macOS: SwiftUI over whisper.cpp, model inside the bundle, Metal inference, nothing leaves the Mac.* |
+| **[Daz Remote Bridge](https://github.com/sibawal/daz-remote-bridge)** | Плагин для Daz Studio 6: поднимает внутри программы HTTP/JSON-сервер и выполняет DAZ Script — сценой можно рулить снаружи, из скрипта или ИИ-агента.<br>*A Daz Studio 6 plugin: an HTTP/JSON server inside the app that evaluates DAZ Script, so the scene can be driven from outside.* |
 | **[SDV2.2_OFVersion](https://github.com/sibawal/SDV2.2_OFVersion)** | Файлы-приложение к видеогайду по установке Stable Diffusion.<br>*Companion files for a Stable Diffusion install guide.* |
 
 ### Чем занимаюсь · Working with
