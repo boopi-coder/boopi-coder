@@ -3,9 +3,6 @@
 <img src="assets/banner.jpg" alt="boopi_coder" width="100%">
 
 <br><br>
-
-<img src="assets/logo.png" alt="boopi_coder" width="104">
-
 # boopi_coder
 
 **Программы, моды для игр и ИИ-решения — без облаков, на вашем компьютере.**<br>
