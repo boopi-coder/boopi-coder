@@ -13,10 +13,10 @@
 
 <br>
 
-<a href="https://boosty.to/boopi_coder"><img src="https://img.shields.io/badge/Boosty-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty"></a>
-<a href="https://boopi.site"><img src="https://img.shields.io/badge/boopi.site-%D1%81%D0%B0%D0%B9%D1%82-7c3aed?style=for-the-badge" alt="boopi.site"></a>
-<a href="https://github.com/boopi-coder?tab=followers"><img src="https://img.shields.io/badge/GitHub-boopi--coder-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<img src="https://img.shields.io/badge/RU_%C2%B7_EN-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_/_languages-1f1b2e?style=for-the-badge" alt="RU · EN">
+<a href="https://boosty.to/boopi_coder"><img src="assets/badges/boosty-f15f2c-b8c31f.svg" alt="Boosty"></a>
+<a href="https://boopi.site"><img src="assets/badges/boopi-site-7c3aed-1f084d.svg" alt="boopi.site"></a>
+<a href="https://github.com/boopi-coder?tab=followers"><img src="assets/badges/github-boopi-coder-1f1b2e-9c1046.svg" alt="GitHub"></a>
+<img src="assets/badges/ru-en-languages-1f1b2e-e722e9.svg" alt="RU · EN">
 
 <sub>Омск · Omsk, Russia</sub>
 
@@ -37,17 +37,17 @@
 
 <a href="https://github.com/boopi-coder/thelxis"><img src="assets/thelxis.png" alt="Thelxis" width="100%"></a>
 
-<img src="https://img.shields.io/badge/Windows-1f1b2e?style=flat-square" alt="Windows">
-<img src="https://img.shields.io/badge/macOS-1f1b2e?style=flat-square" alt="macOS">
-<img src="https://img.shields.io/badge/Linux-1f1b2e?style=flat-square" alt="Linux">
-<img src="https://img.shields.io/badge/Android-1f1b2e?style=flat-square" alt="Android">
-<img src="https://img.shields.io/badge/Flutter-1f1b2e?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/MIT-7c3aed?style=flat-square" alt="MIT">
+<img src="assets/badges/windows-1f1b2e-525d20.svg" alt="Windows">
+<img src="assets/badges/macos-1f1b2e-40de2d.svg" alt="macOS">
+<img src="assets/badges/linux-1f1b2e-f2fb11.svg" alt="Linux">
+<img src="assets/badges/android-1f1b2e-914b4a.svg" alt="Android">
+<img src="assets/badges/flutter-1f1b2e-f78aae.svg" alt="Flutter">
+<img src="assets/badges/mit-7c3aed-238bae.svg" alt="MIT">
 
 <br><br>
 
-<a href="https://github.com/boopi-coder/thelxis/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
-<a href="https://github.com/boopi-coder/thelxis"><img src="https://img.shields.io/badge/GitHub-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/boopi-coder/thelxis/releases/latest"><img src="assets/badges/download-7c3aed-940020.svg" alt="Скачать / Download"></a>
+<a href="https://github.com/boopi-coder/thelxis"><img src="assets/badges/github-1f1b2e-bed2cd.svg" alt="GitHub"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -59,17 +59,17 @@
 
 <a href="https://github.com/boopi-coder/auris-whisper"><img src="assets/auris.png" alt="Auris Whisper" width="100%"></a>
 
-<img src="https://img.shields.io/badge/Windows-1f1b2e?style=flat-square" alt="Windows">
-<img src="https://img.shields.io/badge/macOS-1f1b2e?style=flat-square" alt="macOS">
-<img src="https://img.shields.io/badge/Linux-1f1b2e?style=flat-square" alt="Linux">
-<img src="https://img.shields.io/badge/Tauri-1f1b2e?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
-<img src="https://img.shields.io/badge/Rust-1f1b2e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/github/license/boopi-coder/auris-whisper?style=flat-square&color=7c3aed&labelColor=1f1b2e" alt="License">
+<img src="assets/badges/windows-1f1b2e-525d20.svg" alt="Windows">
+<img src="assets/badges/macos-1f1b2e-40de2d.svg" alt="macOS">
+<img src="assets/badges/linux-1f1b2e-f2fb11.svg" alt="Linux">
+<img src="assets/badges/tauri-1f1b2e-eae8b2.svg" alt="Tauri">
+<img src="assets/badges/rust-1f1b2e-b9a3f1.svg" alt="Rust">
+<img src="assets/badges/https-img-shields-io-github-license-boop-61e362.svg" alt="License">
 
 <br><br>
 
-<a href="https://github.com/boopi-coder/auris-whisper/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
-<a href="https://github.com/boopi-coder/auris-whisper"><img src="https://img.shields.io/badge/GitHub-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/boopi-coder/auris-whisper/releases/latest"><img src="assets/badges/download-7c3aed-940020.svg" alt="Скачать / Download"></a>
+<a href="https://github.com/boopi-coder/auris-whisper"><img src="assets/badges/github-1f1b2e-bed2cd.svg" alt="GitHub"></a>
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<a href="https://boopi.site"><img src="https://img.shields.io/badge/%D0%9E%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_/_Get_in_touch-boopi.site-7c3aed?style=for-the-badge" alt="boopi.site"></a>
+<a href="https://boopi.site"><img src="assets/badges/get-in-touch-boopi-site-7c3aed-f14bab.svg" alt="boopi.site"></a>
 
 </div>
 
@@ -122,18 +122,18 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-1f1b2e?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Dart-1f1b2e?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Rust-1f1b2e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/Tauri-1f1b2e?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
-<img src="https://img.shields.io/badge/Swift_/_SwiftUI-1f1b2e?style=flat-square&logo=swift&logoColor=white" alt="Swift / SwiftUI">
-<img src="https://img.shields.io/badge/C_/_C%2B%2B-1f1b2e?style=flat-square&logo=cplusplus&logoColor=white" alt="C / C++">
-<img src="https://img.shields.io/badge/Python-1f1b2e?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/WebRTC-1f1b2e?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
-<img src="https://img.shields.io/badge/Qt-1f1b2e?style=flat-square&logo=qt&logoColor=white" alt="Qt">
-<img src="https://img.shields.io/badge/Metal-1f1b2e?style=flat-square&logo=apple&logoColor=white" alt="Metal">
-<img src="https://img.shields.io/badge/Vulkan-1f1b2e?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan">
-<img src="https://img.shields.io/badge/Local_ML_models-7c3aed?style=flat-square" alt="Local ML models">
+<img src="assets/badges/flutter-1f1b2e-f78aae.svg" alt="Flutter">
+<img src="assets/badges/dart-1f1b2e-49d143.svg" alt="Dart">
+<img src="assets/badges/rust-1f1b2e-b9a3f1.svg" alt="Rust">
+<img src="assets/badges/tauri-1f1b2e-eae8b2.svg" alt="Tauri">
+<img src="assets/badges/swift-swiftui-1f1b2e-480bca.svg" alt="Swift / SwiftUI">
+<img src="assets/badges/c-c-1f1b2e-f667a4.svg" alt="C / C++">
+<img src="assets/badges/python-1f1b2e-74d2d5.svg" alt="Python">
+<img src="assets/badges/webrtc-1f1b2e-7722e1.svg" alt="WebRTC">
+<img src="assets/badges/qt-1f1b2e-49d87f.svg" alt="Qt">
+<img src="assets/badges/metal-1f1b2e-5a5fd1.svg" alt="Metal">
+<img src="assets/badges/vulkan-1f1b2e-46f380.svg" alt="Vulkan">
+<img src="assets/badges/local-ml-models-7c3aed-4be29c.svg" alt="Local ML models">
 
 </div>
 
