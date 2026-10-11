@@ -13,10 +13,10 @@
 
 <br>
 
-<a href="https://boosty.to/boopi_coder"><img src="https://img.shields.io/badge/Boosty-поддержать-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty"></a>
-<a href="https://boopi.ru"><img src="https://img.shields.io/badge/boopi.ru-сайт-7c3aed?style=for-the-badge" alt="boopi.ru"></a>
-<a href="https://github.com/boopi-coder?tab=followers"><img src="https://img.shields.io/github/followers/boopi-coder?style=for-the-badge&logo=github&label=followers&color=1f1b2e&labelColor=1f1b2e" alt="GitHub followers"></a>
-<img src="https://img.shields.io/badge/RU_·_EN-языки_/_languages-1f1b2e?style=for-the-badge" alt="RU · EN">
+<a href="https://boosty.to/boopi_coder"><img src="https://img.shields.io/badge/Boosty-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-F15F2C?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty"></a>
+<a href="https://boopi.ru"><img src="https://img.shields.io/badge/boopi.ru-%D1%81%D0%B0%D0%B9%D1%82-7c3aed?style=for-the-badge" alt="boopi.ru"></a>
+<a href="https://github.com/boopi-coder?tab=followers"><img src="https://img.shields.io/badge/GitHub-boopi--coder-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/RU_%C2%B7_EN-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_/_languages-1f1b2e?style=for-the-badge" alt="RU · EN">
 
 <sub>Омск · Omsk, Russia</sub>
 
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<a href="https://github.com/boopi-coder/thelxis/releases/latest"><img src="https://img.shields.io/badge/Скачать_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
+<a href="https://github.com/boopi-coder/thelxis/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
 <a href="https://github.com/boopi-coder/thelxis"><img src="https://img.shields.io/badge/GitHub-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </td>
@@ -68,7 +68,7 @@
 
 <br><br>
 
-<a href="https://github.com/boopi-coder/auris-whisper/releases/latest"><img src="https://img.shields.io/badge/Скачать_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
+<a href="https://github.com/boopi-coder/auris-whisper/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_/_Download-7c3aed?style=for-the-badge" alt="Скачать / Download"></a>
 <a href="https://github.com/boopi-coder/auris-whisper"><img src="https://img.shields.io/badge/GitHub-1f1b2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </td>
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<a href="https://boopi.ru"><img src="https://img.shields.io/badge/Обсудить_проект_/_Get_in_touch-boopi.ru-7c3aed?style=for-the-badge" alt="boopi.ru"></a>
+<a href="https://boopi.ru"><img src="https://img.shields.io/badge/%D0%9E%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_/_Get_in_touch-boopi.ru-7c3aed?style=for-the-badge" alt="boopi.ru"></a>
 
 </div>
 
@@ -127,7 +127,7 @@
 <img src="https://img.shields.io/badge/Rust-1f1b2e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Tauri-1f1b2e?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
 <img src="https://img.shields.io/badge/Swift_/_SwiftUI-1f1b2e?style=flat-square&logo=swift&logoColor=white" alt="Swift / SwiftUI">
-<img src="https://img.shields.io/badge/C_/_C++-1f1b2e?style=flat-square&logo=cplusplus&logoColor=white" alt="C / C++">
+<img src="https://img.shields.io/badge/C_/_C%2B%2B-1f1b2e?style=flat-square&logo=cplusplus&logoColor=white" alt="C / C++">
 <img src="https://img.shields.io/badge/Python-1f1b2e?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/WebRTC-1f1b2e?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
 <img src="https://img.shields.io/badge/Qt-1f1b2e?style=flat-square&logo=qt&logoColor=white" alt="Qt">
