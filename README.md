@@ -86,19 +86,6 @@
 
 <br>
 
-## Моды для игр · Game mods
-
-<div align="center">
-
-<a href="https://boosty.to/boopi_coder"><img src="assets/boopi-mod.jpg" alt="boopi_mod REDUX — Fallout 4" width="640"></a>
-
-</div>
-
-**boopi_mod REDUX** для Fallout 4, а также моды для Skyrim, Starfield, Cyberpunk 2077 и The Sims 4. Новые релизы — на [Boosty](https://boosty.to/boopi_coder).<br>
-*boopi_mod REDUX for Fallout 4, plus mods for Skyrim, Starfield, Cyberpunk 2077 and The Sims 4. New releases on [Boosty](https://boosty.to/boopi_coder).*
-
-<br>
-
 ## Для бизнеса · For business
 
 Разрабатываю программы под задачу — от идеи до готового продукта, с упором на локальную работу и приватность данных.<br>
